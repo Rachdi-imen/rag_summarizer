@@ -1,16 +1,4 @@
-Parfait ! Merci pour tous les fichiers et le code. 😃
-Je peux te préparer un **README.md final complet** pour ton projet `rag_summarizer` en incluant :
 
-* Les **fichiers spécifiques** (`file_loader.py`, `rag_pipeline.py`, `utils.py`)
-* Les **endpoints FastAPI**
-* Les **instructions pour tester l’upload PDF/DOCX**
-* Les **métriques et points clés**
-
-Voici une version prête à copier-coller :
-
----
-
-````markdown
 # RAG Summarizer
 
 Projet **FastAPI** pour générer des **résumés de documents** (PDF et DOCX) en utilisant une approche **RAG (Retrieval-Augmented Generation)** avec **LangChain**, **HuggingFace**, et **Chroma**.
