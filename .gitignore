@@ -1,0 +1,42 @@
+# Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+*.env
+
+# Chroma / vectorstores
+chroma_db/
+vectorstore/
+*.pkl
+
+# Temporary / backup
+*.bak
+*.swp
+*.tmp
+
+# Docs / exports
+*.pdf
+*.docx
+*.pptx
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
